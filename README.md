@@ -1,18 +1,29 @@
 # Hi there, I'm Matt 👋
-I'm a second year Univeristy student in London with experience using Python and PowerShell. In my past job I wrote PowerShell scripts to help save time on menial tasks. These scripts included:
-- An automated report system which emailed clients a PDF file of their support hours for that month every Monday.
-- An automated system to notify clients when they were close to exceeding their allowed support hours for the month.
-- Email notifications for whether the nightly server backups had occurred or not.
-- Email notifications if our self-service portal was down.
+
+I'm a second year university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment.
+
+Programming/Scripting Languages I've used:
+- Python
+- Powershell
+- Java
+- Netscript 1.0 (Subset of JavaScript)
+- SQL
 
 ## Current Primary Project
-[The Doghouse inhouse bot](https://github.com/Teky500/doghouse) is a team project built in Python using the discord.py API. What sets this inhouse bot apart from many of the other inhouse bots available on GitHub is its use of Buttons, Select menus, and Modals instead of emoji reactions and commands. This results in an improved user experience for people interacting with the inhouse bot. It's far easier for users to understand how to register when all they have to do is pretty a green button and enter some details on a form, instead of having to enter commands with specific parameters. Setting role preferences, viewing details of other users, and joining the inhouse queue are also intuitive.
+[Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen) - A CRUD app written in Java to track what gigs you've been to and what bands you've seen. All gig details are stored in a SQLite database, which can then be read, edited, or deleted. Uses the Java Swing Framework for the GUI. Still a work in progress.
 
-Currently the bot is still a work in progress, with automated lobbies and other Dota 2 API features not yet implemented. However, most of the front-end functionality which is my responsibility is now working as intended. Updates are being pushed to a test build on a weekly basis. This test build is in use on two separate Discord communities, with others showing interest for when the finished product is released. Hopefully we'll be pushing version 1.0.0 out within the next few months.
+## Other Github Projects
 
-## Other Projects
+- [The Birdhouse inhouse bot](https://github.com/Teky500/doghouse) - A Dota 2 matchmaking bot for Discord written in Python. Currently used by two discord communities.
+- [Le Toucan](https://github.com/Samsquamptch/LeToucan) - A simple discord bot written in Python which posts ASCII art when a button is pressed. Configured to run on Replit.
 
-[Le Toucan](https://github.com/Samsquamptch/LeToucan) - A simple discord bot which posts ASCII art when a button is pressed. Configured to run on Replit.
+## Other Stuff I've Done
+
+- Built a custom reporting script written in PowerShell which sent weekly usage reports in PDF format to over 30 clients.
+- Wrote scripts in Netscript 1.0 for the game Bitburner to "hack" target servers and upgrade my own ingame servers.
+- Set up instances for use in production for AWS and personal use for Oracle Cloud.
+- Configured an Apache HTTP reverse proxy server for a self-hosted self-service web portal used for business purposes.
+- Used Figma to design User Interfaces for a currently on hold group project.
 
 <!---
 Samsquamptch/Samsquamptch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
