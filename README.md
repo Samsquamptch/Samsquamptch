@@ -9,8 +9,8 @@ Programming/Scripting Languages I've used:
 - Netscript 1.0 (Subset of JavaScript)
 - SQL
 
-## Current Primary Project
-[Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen) - A CRUD app written in Java to track what gigs you've been to and what bands you've seen. All gig details are stored in a SQLite database, which can then be read, edited, or deleted. Uses the Java Swing Framework for the GUI. Still a work in progress.
+## Latest Project
+[Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen/) - A CRUD app written in Java to track what gigs you've been to and what bands you've seen. All gig details are stored in a SQLite database, which can then be read, edited, or deleted. Uses the Java Swing Framework for the GUI. v1.0.0 has been released, although more improvements may be added in the future.
 
 ## Other Github Projects
 
