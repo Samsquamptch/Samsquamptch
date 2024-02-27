@@ -6,6 +6,7 @@ Programming/Scripting Languages I've used:
 - Python
 - Powershell
 - Java
+- C#
 - Netscript 1.0 (Subset of JavaScript)
 - SQL
 
@@ -16,6 +17,7 @@ Programming/Scripting Languages I've used:
 
 - [The Birdhouse inhouse bot](https://github.com/Teky500/doghouse) - A Dota 2 matchmaking bot for Discord written in Python. Currently used by two discord communities.
 - [Le Toucan](https://github.com/Samsquamptch/LeToucan) - A simple discord bot written in Python which posts ASCII art when a button is pressed. Configured to run on Replit.
+- [Calculate Read Time](https://github.com/Samsquamptch/CalculateReadTime) - A console application for calculating disk scheduling seek times.
 
 ## Other Stuff I've Done
 
