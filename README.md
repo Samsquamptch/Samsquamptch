@@ -1,6 +1,6 @@
 # Hi there, I'm Matt 👋
 
-I'm a second year university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment.
+I'm a third year university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment and currently maintain an inhouse bot written in Python for several online communities.
 
 Programming/Scripting Languages I've used:
 - Python
