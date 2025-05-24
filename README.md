@@ -7,25 +7,29 @@ Programming/Scripting Languages I've used:
 - Powershell
 - Java
 - C#
-- Netscript 1.0 (Subset of JavaScript)
+- Netscript 1.0 (Subset of JavaScript for BitBurner)
+- JavaScript
 - SQL
 
-## Latest Project
-[Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen/) - A CRUD app written in Java to track what gigs you've been to and what bands you've seen. All gig details are stored in a SQLite database, which can then be read, edited, or deleted. Uses the Java Swing Framework for the GUI. v1.0.0 has been released, although more improvements may be added in the future.
+## Current Project
+[AfterClass](https://github.com/Samsquamptch/afterclass) - A webapp which allows university student to compare lesson schedules, making it easier to organise days to meet up after classes.
 
 ## Other Github Projects
 
+- [Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen/) - A CRUD app written in Java to track gigs you've been to and bands you've seen. Uses the Swing UI Framework.
 - [The Birdhouse inhouse bot](https://github.com/Teky500/doghouse) - A Dota 2 matchmaking bot for Discord written in Python. Currently used by two discord communities.
+- [Inhouse Bot 2.0](https://github.com/Samsquamptch/inhouse-bot-2.0) - An improvement on the Birdhouse Bot which served my final year project at university.
 - [Le Toucan](https://github.com/Samsquamptch/LeToucan) - A simple discord bot written in Python which posts ASCII art when a button is pressed. Configured to run on Replit.
-- [Calculate Read Time](https://github.com/Samsquamptch/CalculateReadTime) - A console application for calculating disk scheduling seek times.
+- [Calculate Read Time](https://github.com/Samsquamptch/CalculateReadTime) - A console application written in C# for calculating disk scheduling seek times.
 
 ## Other Stuff I've Done
 
 - Built a custom reporting script written in PowerShell which sent weekly usage reports in PDF format to over 30 clients.
 - Wrote scripts in Netscript 1.0 for the game Bitburner to "hack" target servers and upgrade my own ingame servers.
-- Set up instances for use in production for AWS and personal use for Oracle Cloud.
+- Set up cloud instances on AWS, Oracle Cloud, and Google Cloud Platform for professional, personal, and academic purposes.
 - Configured an Apache HTTP reverse proxy server for a self-hosted self-service web portal used for business purposes.
-- Used Figma to design User Interfaces for a currently on hold group project.
+- Used Figma to design User Interfaces for a proposed group project.
+- Assisted in a Game Jam using Unreal Engine 5 Blueprints.
 
 <!---
 Samsquamptch/Samsquamptch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
