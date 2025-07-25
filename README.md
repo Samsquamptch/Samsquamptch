@@ -16,6 +16,7 @@ Programming/Scripting Languages I've used:
 
 ## Other Github Projects
 
+- [GradeIt](https://github.com/Samsquamptch/GradeIt) - An Excel add-in to quickly calculate student grades.
 - [Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen/) - A CRUD app written in Java to track gigs you've been to and bands you've seen. Uses the Swing UI Framework.
 - [The Birdhouse inhouse bot](https://github.com/Teky500/doghouse) - A Dota 2 matchmaking bot for Discord written in Python. Currently used by two discord communities.
 - [Inhouse Bot 2.0](https://github.com/Samsquamptch/inhouse-bot-2.0) - An improvement on the Birdhouse Bot which served my final year project at university.
