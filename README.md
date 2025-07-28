@@ -7,6 +7,7 @@ Programming/Scripting Languages I've used:
 - Powershell
 - Java
 - C#
+- R
 - Netscript 1.0 (Subset of JavaScript for BitBurner)
 - JavaScript
 - SQL
