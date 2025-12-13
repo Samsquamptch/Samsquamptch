@@ -1,6 +1,6 @@
 # Hi there, I'm Matt 👋
 
-I'm a third year university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment and currently maintain an inhouse bot written in Python for several online communities.
+I'm a recently graduated university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment and currently maintain an inhouse bot written in Python for several online communities.
 
 Programming/Scripting Languages I've used:
 - Python
@@ -9,14 +9,16 @@ Programming/Scripting Languages I've used:
 - C#
 - R
 - Netscript 1.0 (Subset of JavaScript for BitBurner)
-- JavaScript
+- JavaScript (including Typescript)
 - SQL
 
 ## Current Project
-[AfterClass](https://github.com/Samsquamptch/afterclass) - A webapp which allows university student to compare lesson schedules, making it easier to organise days to meet up after classes. Uses Java Spring Boot for the backend and React.js with Tailwind CSS for the frontend.
+
+- Integrating workflow systems such as Activepieces and Pipedream with Neuronic AI's APIpie.ai as part of an Internship.
 
 ## Other Github Projects
 
+- [AfterClass](https://github.com/Samsquamptch/afterclass) - A webapp which allows university student to compare lesson schedules, making it easier to organise days to meet up after classes. Uses Java Spring Boot for the backend and React.js with Tailwind CSS for the frontend.
 - [GradeIt](https://github.com/Samsquamptch/GradeIt) - An Excel add-in to quickly calculate student grades. Written in Javascript using Yeoman Office.
 - [Bands I've Seen](https://github.com/Samsquamptch/BandsIveSeen/) - A CRUD app written in Java to track gigs you've been to and bands you've seen. Uses Swing UI.
 - [The Birdhouse inhouse bot](https://github.com/Teky500/doghouse) - A Dota 2 matchmaking bot for Discord written in Python. Currently used by two discord communities.
