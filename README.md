@@ -14,7 +14,7 @@ Programming/Scripting Languages I've used:
 
 ## Current Project
 
-- Integrating workflow systems such as Activepieces and Pipedream with Neuronic AI's APIpie.ai as part of an Internship.
+- Integrating workflow systems such as Activepieces and Pipedream with Neuronic AI's APIpie.ai.
 
 ## Other Github Projects
 
