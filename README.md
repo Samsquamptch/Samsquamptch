@@ -1,22 +1,14 @@
-# Hi there, I'm Matt 👋
+# Backend Developer Based in London
 
-I'm a recently graduated university student based in London with almost 6 years experience working in IT. I've written scripts in Powershell which were used in a live production environment and currently maintain an inhouse bot written in Python for several online communities.
-
-Programming/Scripting Languages I've used:
+Programming Languages I've used:
 - Python
-- Powershell
+- JavaScript (including Typescript)
+- Dart
 - Java
 - C#
-- R
-- Netscript 1.0 (Subset of JavaScript for BitBurner)
-- JavaScript (including Typescript)
-- SQL
+- Java
 
-## Current Project
-
-- Integrating workflow systems such as Activepieces and Pipedream with Neuronic AI's APIpie.ai.
-
-## Other Github Projects
+## Personal Github Projects
 
 - [AfterClass](https://github.com/Samsquamptch/afterclass) - A webapp which allows university student to compare lesson schedules, making it easier to organise days to meet up after classes. Uses Java Spring Boot for the backend and React.js with Tailwind CSS for the frontend.
 - [GradeIt](https://github.com/Samsquamptch/GradeIt) - An Excel add-in to quickly calculate student grades. Written in Javascript using Yeoman Office.
