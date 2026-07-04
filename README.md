@@ -6,7 +6,6 @@ Programming Languages I've used:
 - Dart
 - Java
 - C#
-- Java
 
 ## Personal Github Projects
 
